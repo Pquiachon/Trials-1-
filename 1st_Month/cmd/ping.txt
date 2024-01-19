@@ -1,0 +1,1216 @@
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...
+
+C:\Users\HP\Desktop\bootcamp\cmd>ping facebook.com 
+
+C:\Users\HP\Desktop\bootcamp\cmd>title PING's Test 
+
+C:\Users\HP\Desktop\bootcamp\cmd>echo Pinging Google... 
+Pinging Google...

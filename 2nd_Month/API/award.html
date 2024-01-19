@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+      $(document).ready(function () {
+        $("#submit_actor").submit(function (x) {
+          let actor_name = $("#actor_name").val();
+
+          const bio = {
+            async: true,
+            crossDomain: true,
+            url:
+              "https://imdb8.p.rapidapi.com/actors/get-bio?nconst=" +
+              actor_name,
+            method: "GET",
+            headers: {
+              "X-RapidAPI-Key":
+                "a899b49bd6msh0620aea32fa8800p1415e4jsnfb718239de9d",
+              "X-RapidAPI-Host": "imdb8.p.rapidapi.com",
+            },
+          };
+
+          $.ajax(bio).done(function (response) {
+            $("#actor_name_display").text(response.name);
+            $("#actor_pic").prop("src", response.image.url);
+            $("#actor_pic").prop("alt", response.name);
+          });
+
+          const awards = {
+            async: true,
+            crossDomain: true,
+            url:
+              "https://imdb8.p.rapidapi.com/actors/get-awards?nconst=" +
+              actor_name,
+            method: "GET",
+            headers: {
+              "X-RapidAPI-Key":
+                "a899b49bd6msh0620aea32fa8800p1415e4jsnfb718239de9d",
+              "X-RapidAPI-Host": "imdb8.p.rapidapi.com",
+            },
+          };
+
+          $.ajax(awards).done(function (response) {
+            $("#award_list").html("");
+            for (let i = 0; i < response.resource.awards.length; i++) {
+              let award_name = response.resource.awards[i].awardName;
+              let event_name = response.resource.awards[i].eventName;
+              let year = response.resource.awards[i].year;
+              let row =
+                "<li>" +
+                award_name +
+                ", " +
+                event_name +
+                " (" +
+                year +
+                ")</li>";
+              $("#award_list").append(row);
+            }
+          });
+
+          x.preventDefault();
+        });
+      });
+    </script>
+    <title>Actor/Actress Awards</title>
+  </head>
+  <body>
+    <h1>Lookup Awards</h1>
+    <form id="submit_actor">
+      <label>Enter IMDB ID: </label><br />
+      <input type="text" id="actor_name" />
+      <input type="submit" />
+    </form>
+    <h2 id="actor_name_display"></h2>
+    <img id="actor_pic" src="" alt="" width="150px" />
+    <ul id="award_list"></ul>
+  </body>
+</html>

@@ -1,0 +1,28 @@
+
+        p {
+            color: brown;
+        }
+
+        h1 {
+            font-family: 'Comic Sans', cursive;
+        }
+
+        .btn {
+            background: rgb(231, 147, 147);
+            color: white;
+            margin-left: 10px;
+            margin-top: 30px;
+        }
+
+        #hello {
+            font-size: 30px;
+        }
+        
+        .col-lg-4 {
+            text-align: justify;
+            margin-left: 25px;
+        }
+
+        #free-huell {
+            margin-top: 55px;
+        }
